@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LabWork 2-1-7</string>
+
+    <string name="add">Add</string>
+    <string name="create">create</string>
+    <string name="download">download</string>
+</resources>
